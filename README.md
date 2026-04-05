@@ -70,7 +70,7 @@ index.html 파일을 더블클릭 → 브라우저에서 바로 실행
 이 저장소는 이미 GitHub Pages로 배포되어 있습니다. 아래 주소로 바로 접속하세요.
 
 ```
-https://shittim-plana.github.io/Lumos-v2/
+https://shittim-plana.github.io/Lumos-v2-Public/
 ```
 
 4. 이 URL을 이후 OAuth 설정에서 **승인된 출처**로 등록합니다.

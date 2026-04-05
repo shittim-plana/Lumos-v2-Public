@@ -224,7 +224,7 @@ OAuth는 `https://` 출처에서만 동작합니다.
 장기 기억 RAG(Retrieval-Augmented Generation)를 사용하면 방대한 로어북에서 현재 장면과 관련된 정보만 자동으로 추출해 AI에 주입합니다.
 
 1. [voyageai.com](https://www.voyageai.com/) 에서 계정을 만들고 결제계정을 만듭니다. [Billing](https://dashboard.voyageai.com/organization/billing) 에서 카드를 등록하고, Tier 1으로 만듭니다.
-1-1. **[Terms of Service](https://dashboard.voyageai.com/organization/tos)에서 옵트아웃(Opt-out) 설정 필수!**
+1-1. **[Terms of Service](https://dashboard.voyageai.com/organization/tos)에서 옵트아웃(Opted-Out) 설정 필수!**
 2. 이제 [API keys](https://dashboard.voyageai.com/organization/api-keys)에 들어가 API 키를 발급합니다. (발급했을때 복사 해야 됩니다.)
 3. Lumos 설정 → **API 및 모델** 탭 하단 **Voyage AI 임베딩 설정** 에서 API 키를 입력합니다.
 4. 임베딩 모델을 선택하고 **저장** 합니다.
